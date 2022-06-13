@@ -1,5 +1,5 @@
 <template>
-  <q-page padding>
+  <q-page padding >
     <p v-for="n in 20" :key="n">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit nihil
       praesentium molestias a adipisci, dolore vitae odit, quidem consequatur
