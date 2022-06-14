@@ -1,3 +1,9 @@
+
+
+<script setup lang="ts">
+
+</script>
+
 <template>
   <q-page padding >
     <p v-for="n in 20" :key="n">
@@ -8,10 +14,3 @@
     </p>
   </q-page>
 </template>
-
-<script lang="ts">
-import { defineComponent } from 'vue';
-export default defineComponent({
-  // name: 'PageName'
-});
-</script>
